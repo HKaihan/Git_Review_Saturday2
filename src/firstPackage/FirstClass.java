@@ -6,5 +6,7 @@ public class FirstClass {
 
 
         System.out.println("first class file");
+        
+        System.out.println("first class file");
     }
 }
